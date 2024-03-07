@@ -1,3 +1,1 @@
-# Course Store Template
-
-Template for Django course
+# Django pet project
